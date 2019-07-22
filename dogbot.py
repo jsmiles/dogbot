@@ -16,5 +16,5 @@ dp = doggo()
 client.chat_postMessage(
   channel="CCCN3EXK2", # Random channel
   text= dp,
-  attachments=[{"text": "Dogbot - dog picture in yor moment of need!"}]
+  attachments=[{"text": "Dogbot - dog picture in your moment of need!"}]
 )
